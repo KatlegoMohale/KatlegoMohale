@@ -1,14 +1,8 @@
 
-![MasterHead](https://github.com/KatlegoMohale/KatlegoMohale/ProfileBanner.png)
-<p align = "center">
-  <img src="https://media0.giphy.com/media/l3mZnuz4coJp8EBBm/giphy.gif" width = 1100 height=460/>
-</p>
+![MasterHead](./ProfileBannerImage.gif)
 
 <a href="https://twitter.com/katlegomhl" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="katlegomhl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
-
-<h1 align="center">Hi 👋, I'm Katlego</h1>
-<h3 align="center">Data Science | Business Analysis | Web Development</h3>
 
 - 🔭 I’m currently working on **Charge (Recruitment Management Web Application)**
 
