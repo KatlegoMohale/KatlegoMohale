@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.searchenginejournal.com/wp-content/uploads/2019/12/when-to-use-data-science-in-seo-5def8e5b1c22c-760x400.png)]
 <h1 align="center">Hi 👋, I'm Katlego</h1>
 <h3 align="center">Data Science | Business Analysis | Web Development</h3>
 
