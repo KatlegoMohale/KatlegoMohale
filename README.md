@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.suntecindia.com/img/data-analytics-services-image.gif" width = 1100 height=460 ></img>
+<p align="center"><img src="https://www.peoplecube.ai/assets/img/analytics.png" width = 1100 height = 460 ></img>
 
 <a href="https://twitter.com/katlegomhl" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="katlegomhl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
