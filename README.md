@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/12/when-to-use-data-science-in-seo-5def8e5b1c22c-760x400.png" width = 1100 height=450></img>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif" width = 1100 ></img>
 
 <a href="https://twitter.com/katlegomhl" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="katlegomhl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
