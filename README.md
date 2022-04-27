@@ -1,5 +1,5 @@
 
-
+![MasterHead](https://github.com/KatlegoMohale/KatlegoMohale/ProfileBanner.png)
 <p align = "center">
   <img src="https://media0.giphy.com/media/l3mZnuz4coJp8EBBm/giphy.gif" width = 1100 height=460/>
 </p>
