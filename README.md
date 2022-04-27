@@ -1,5 +1,9 @@
 
 
+<p align = "center">
+  <img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2019/07/giphy-2.gif" width = 1100 height=460/>
+</p>
+
 <a href="https://twitter.com/katlegomhl" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="katlegomhl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
 
