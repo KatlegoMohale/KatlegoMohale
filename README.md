@@ -3,7 +3,7 @@
 
 <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on **Charge (Recruitment Management Web Application)**
+- 🔭 I’m currently working on <a href="https://github.com/KatlegoMohale/Team35-Charge">**Charge (Recruitment Management Web Application)**</a>
 
 - 📫 How to reach me **u19194588@tuks.co.za**
 
