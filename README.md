@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/KatlegoMohale/Team35-Charge">**Charge (Recruitment Management Web Application)**</a>
 - 🌱 I’m currently learning **Angular and Web APIs**
-- 🔎 I’m interested in **data science**
-- ✍️ I’m fascinated by **Web Development**
+- 🔎 I’m interested in **Web Development** 
+- ✍️ I’m fascinated by **data science**
 - 💡 I'm skilled in **Business/System Analysis**
 - 📫 How to reach me **u19194588@tuks.co.za**
 
