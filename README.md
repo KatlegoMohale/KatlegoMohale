@@ -11,19 +11,19 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <br/>
 
 <h3 align="left"> Programming Languages: </h3>
-<a href="https://github.com/KatlegoMohale/Python">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://github.com/KatlegoMohale/Python" bg_color=#0e1280 >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
 </a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/KatlegoMohale/SAS" bg_color=#0e1280 >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SAS" />
+</a>
+<a href="https://github.com/KatlegoMohale/SQL" bg_color=#0e1280 >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SQL" />
+</a>
+<a href="https://github.com/KatlegoMohale/R-Studio" bg_color=#0e1280 >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio" />
 </a>
 
- <img src="https://seeklogo.com/images/R/rstudio-logo-F79D4E9BE6-seeklogo.com.png" alt="rstudio" height="40"/>
- <img src="https://seeklogo.com/images/S/sas-logo-5B2DD6956B-seeklogo.com.png" alt="sas" height="40"/>
-
-SQL
 
 
 Tools: 
