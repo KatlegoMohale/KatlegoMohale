@@ -17,12 +17,11 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <a href="https://github.com/KatlegoMohale/SAS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SAS" />
 </a>
-  <br/>
 <a href="https://github.com/KatlegoMohale/SQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SQL" />
 </a>
 <a href="https://github.com/KatlegoMohale/R-Studio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio" bg_color=#0e1280 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio"/>
 </a>
 </p>
 
