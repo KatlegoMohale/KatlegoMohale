@@ -9,11 +9,10 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 
 <br/>
 <br/>
-<br/>
-<br/>
-
 <h3 align="left"> Programming Languages: </h3>
- <img src="https://images.seeklogo.com/logo-png/33/1/python-logo-png_seeklogo-332789.png" alt="sas" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python)](https://github.com/KatlegoMohale/Python)
+ 
  <img src="https://seeklogo.com/images/R/rstudio-logo-F79D4E9BE6-seeklogo.com.png" alt="rstudio" height="40"/>
  <img src="https://seeklogo.com/images/S/sas-logo-5B2DD6956B-seeklogo.com.png" alt="sas" height="40"/>
 
