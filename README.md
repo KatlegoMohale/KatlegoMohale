@@ -12,7 +12,7 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <h3 align="left"> Programming Languages: </h3>
 <p align="center"> 
 <a href="https://github.com/KatlegoMohale/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
 </a>
 <a href="https://github.com/KatlegoMohale/SAS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SAS" />
