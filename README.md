@@ -8,25 +8,26 @@ I love the process of exploration and discovery, driven by the thrill of breakin
 I believe data is a key to not only solve problems but to unlock new ways of understanding the world."
 
 <br/>
-<br/>
 
 <h3 align="left"> Programming Languages: </h3>
-<a href="https://github.com/KatlegoMohale/Python" bg_color=#0e1280 >
+<p align="center"> 
+<a href="https://github.com/KatlegoMohale/Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
 </a>
-<a href="https://github.com/KatlegoMohale/SAS" bg_color=#0e1280 >
+<a href="https://github.com/KatlegoMohale/SAS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SAS" />
 </a>
-<a href="https://github.com/KatlegoMohale/SQL" bg_color=#0e1280 >
+  <br/>
+<a href="https://github.com/KatlegoMohale/SQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SQL" />
 </a>
-<a href="https://github.com/KatlegoMohale/R-Studio" bg_color=#0e1280 >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio" />
+<a href="https://github.com/KatlegoMohale/R-Studio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio" bg_color=#0e1280 />
 </a>
+</p>
 
-
-
-Tools: 
+<br/>
+<h3 align="left"> Tools: </h3>
 Tableau, 
 Power BI, 
 Docker, 
