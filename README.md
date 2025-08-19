@@ -9,8 +9,17 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 
 <br/>
 <br/>
+
 <h3 align="left"> Programming Languages: </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://github.com/KatlegoMohale/Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python)](https://github.com/KatlegoMohale/Python)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/KatlegoMohale/Python)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
