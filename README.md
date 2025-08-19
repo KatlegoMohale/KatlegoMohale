@@ -12,7 +12,8 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <h3 align="left"> Programming Languages: </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python)](https://github.com/KatlegoMohale/Python)
- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/KatlegoMohale/Python)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  <img src="https://seeklogo.com/images/R/rstudio-logo-F79D4E9BE6-seeklogo.com.png" alt="rstudio" height="40"/>
  <img src="https://seeklogo.com/images/S/sas-logo-5B2DD6956B-seeklogo.com.png" alt="sas" height="40"/>
 
