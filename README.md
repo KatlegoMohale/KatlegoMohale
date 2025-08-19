@@ -3,11 +3,9 @@
 
 <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on <a href="https://github.com/KatlegoMohale/Team35-Charge">**Charge (Recruitment Management Web Application)**</a>
-- 🌱 I’m currently learning **SQL, Python and Linux Scripting**
-- 🔎 I’m interested in **Everything Data** 
-- ✍️ I’m fascinated by **Data Science**
-- 💡 I'm skilled in **Statistics** and **IT Business Analysis**
+Hi, I'm Katlego, a data enthusiast who sees every dataset as an adventure. I love the process of exploration and discovery, driven by the thrill of breaking down complex data, and digging deep until the hidden solution or new insight is revealed. 
+I believe data is a key to not only solve problems but to unlock new ways of understanding the world."
+
 - 📫 How to reach me **katlego.mhl2@gmail.com**
 
 
