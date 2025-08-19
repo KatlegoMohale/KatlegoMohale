@@ -12,16 +12,16 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <h3 align="left"> Programming Languages: </h3>
 <p align="center"> 
 <a href="https://github.com/KatlegoMohale/Python">
-  <img align="center" width="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
+  <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
 </a>
 <a href="https://github.com/KatlegoMohale/SAS">
-  <img align="center" width="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SAS" />
+  <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SAS" />
 </a>
 <a href="https://github.com/KatlegoMohale/SQL">
-  <img align="center" width="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SQL" />
+  <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=SQL" />
 </a>
 <a href="https://github.com/KatlegoMohale/R-Studio">
-  <img align="center" width="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio"/>
+  <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=R-Studio"/>
 </a>
 </p>
 
