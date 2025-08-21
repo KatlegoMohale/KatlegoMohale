@@ -1,10 +1,14 @@
 
 ![MasterHead](./ProfileBannerImage2025.gif)
 
+<a href="https://linkedin.com/in/katlego-mohale" target="blank" >
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" align="Right" />
+</a>
+
 Hi, I'm Katlego, a data enthusiast who sees every dataset as an adventure. I love the process of exploration and discovery, driven by the thrill of breaking down complex data, and digging deep until the hidden solution or new insight is revealed. <br/>
 I believe data is a key to not only solve problems but to unlock new ways of understanding the world."
 <br/>
-<h3 align="left"> Tools: </h3>
+<h5 align="left"> Tools: </h5>
 Tableau, 
 Power BI, 
 Docker, 
@@ -12,7 +16,7 @@ Git
 
 <br/>
 
-<h3 align="left"> Programming Languages: </h3>
+<h5 align="left"> Programming Languages: </h5>
 <p align="center"> 
 <a href="https://github.com/KatlegoMohale/Python">
   <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
@@ -36,17 +40,14 @@ Git
 
 <br/>
 
-<h3 align="left">Contact me:</h3>
+<h5 align="left">Contact me:</h5>
 <p align="center"> 
-  <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/katlego-mohale" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="katlego-mohale" height="30" width="40" /></a>
-
-- 📫 How to reach me **katlego.mhl2@gmail.com**
+Johannnesburg, South Africa | katlego.mhl2@gmail.com | +27 66 *** 7822
 </p>
 <br/>
 
 ---
-<h3 align="left">Other Languages and Tools:</h3>
+<h5 align="left">Other Languages and Tools:</h5>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
