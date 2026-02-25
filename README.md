@@ -1,5 +1,5 @@
 
-![MasterHead](./ProfileBannerImage2025.gif)
+![MasterHead](./ProfileBannerImage2026.gif)
 
 <a href="https://linkedin.com/in/katlego-mohale" target="blank" >
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" align="Right" />
