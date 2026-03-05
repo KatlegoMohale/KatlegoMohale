@@ -10,27 +10,17 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <br/>
 
 <h5>Projects</h5>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME">
-        <img src="https://via.placeholder.com/300x150?text=Project+One+Thumbnail" width="300px" alt="Project 1"/><br />
-        <sub><b>Project Name One</b></sub>
-      </a>
-      <p>A brief description of the tech stack: React, Node, PostgreSQL.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-        <img src="https://via.placeholder.com/300x150?text=Project+Two+Thumbnail" width="300px" alt="Project 2"/><br />
-        <sub><b>Project Name Two</b></sub>
-      </a>
-      <p>A brief description: Python, FastAPI, and Docker.</p>
-    </td>
-  </tr>
-</table>
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
+    <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/assets/project-thumbnail.png" width="100%" alt="Project Title" style="border-radius:10px;">
+  </a>
+  <h3><a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">🚀 Project Title Name</a></h3>
+  <p>
+    This is a 1-2 line description of your project. Mention the core problem it solves 
+    and the main tech stack (e.g., built with Python and React).
+  </p>
+</div>
+<br/>
 
 <h5 align="left"> Tech Stack: </h5>
 Tableau, 
