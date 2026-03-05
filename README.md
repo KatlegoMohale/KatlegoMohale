@@ -10,17 +10,56 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <br/>
 
 <h5>Projects</h5>
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
-    <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/assets/project-thumbnail.png" width="100%" alt="Project Title" style="border-radius:10px;">
-  </a>
-  <h3><a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">🚀 Project Title Name</a></h3>
-  <p>
-    This is a 1-2 line description of your project. Mention the core problem it solves 
-    and the main tech stack (e.g., built with Python and React).
-  </p>
-</div>
-<br/>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a href="URL_TO_REPO_1">
+        <img src="IMAGE_URL_1" width="100%" style="border-radius:10px;" alt="Project 1"/>
+        <br /><b>Project Name 1</b>
+      </a>
+      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a href="URL_TO_REPO_2">
+        <img src="IMAGE_URL_2" width="100%" style="border-radius:10px;" alt="Project 2"/>
+        <br /><b>Project Name 2</b>
+      </a>
+      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a href="URL_TO_REPO_3">
+        <img src="IMAGE_URL_3" width="100%" style="border-radius:10px;" alt="Project 3"/>
+        <br /><b>Project Name 3</b>
+      </a>
+      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <a href="URL_TO_REPO_4">
+        <img src="IMAGE_URL_4" width="100%" style="border-radius:10px;" alt="Project 4"/>
+        <br /><b>Project Name 4</b>
+      </a>
+      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a href="URL_TO_REPO_5">
+        <img src="IMAGE_URL_5" width="100%" style="border-radius:10px;" alt="Project 5"/>
+        <br /><b>Project Name 5</b>
+      </a>
+      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <a href="URL_TO_REPO_6">
+        <img src="IMAGE_URL_6" width="100%" style="border-radius:10px;" alt="Project 6"/>
+        <br /><b>Project Name 6</b>
+      </a>
+      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
+    </td>
+  </tr>
+</table>
+
 
 <h5 align="left"> Tech Stack: </h5>
 Tableau, 
