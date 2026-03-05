@@ -29,6 +29,8 @@ I believe data is a key to not only solve problems but to unlock new ways of und
   </tr>
 </table>
 
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+
 
 <h5 align="left"> Tech Stack: </h5>
 Tableau, 
