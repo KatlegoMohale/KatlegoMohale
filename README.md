@@ -10,22 +10,27 @@ I believe data is a key to not only solve problems but to unlock new ways of und
 <br/>
 
 <h5>Projects</h5>
-<div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div>
-<div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME">
+        <img src="https://via.placeholder.com/300x150?text=Project+One+Thumbnail" width="300px" alt="Project 1"/><br />
+        <sub><b>Project Name One</b></sub>
+      </a>
+      <p>A brief description of the tech stack: React, Node, PostgreSQL.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+        <img src="https://via.placeholder.com/300x150?text=Project+Two+Thumbnail" width="300px" alt="Project 2"/><br />
+        <sub><b>Project Name Two</b></sub>
+      </a>
+      <p>A brief description: Python, FastAPI, and Docker.</p>
+    </td>
+  </tr>
+</table>
 
-<h5 align="left"> Tools: </h5>
+
+<h5 align="left"> Tech Stack: </h5>
 Tableau, 
 Power BI, 
 Docker, 
