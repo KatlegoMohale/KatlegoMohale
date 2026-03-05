@@ -67,9 +67,6 @@ Power BI,
 Docker, 
 Git
 
-<br/>
-
-<h5 align="left"> Programming Languages: </h5>
 <p align="center"> 
 <a href="https://github.com/KatlegoMohale/Python">
   <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KatlegoMohale&repo=Python" />
