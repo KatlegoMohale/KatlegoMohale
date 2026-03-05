@@ -8,6 +8,23 @@
 Hi, I'm Katlego, a data enthusiast who sees every dataset as an adventure. I love the process of exploration and discovery, driven by the thrill of breaking down complex data, and digging deep until the hidden solution or new insight is revealed. <br/>
 I believe data is a key to not only solve problems but to unlock new ways of understanding the world."
 <br/>
+
+<h5>Projects</h5>
+<div class="card">
+  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div>
+<div class="card">
+  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div>
+
 <h5 align="left"> Tools: </h5>
 Tableau, 
 Power BI, 
