@@ -5,63 +5,19 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="katlego-mohale" height="30" width="40" align="Right" />
 </a>
 
-Hi, I'm Katlego, a data enthusiast who sees every dataset as an adventure. I love the process of exploration and discovery, driven by the thrill of breaking down complex data, and digging deep until the hidden solution or new insight is revealed. <br/>
-I believe data is a key to not only solve problems but to unlock new ways of understanding the world."
-<br/>
+<p>I build <b>end-to-end data products</b> that transform complex business problems into <i>scalable, production-ready solutions</i>.</p>
 
-<h5>Projects</h5>
-<table width="100%">
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <a href="URL_TO_REPO_1">
-        <img src="IMAGE_URL_1" width="100%" style="border-radius:10px;" alt="Project 1"/>
-        <br /><b>Project Name 1</b>
-      </a>
-      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="URL_TO_REPO_2">
-        <img src="IMAGE_URL_2" width="100%" style="border-radius:10px;" alt="Project 2"/>
-        <br /><b>Project Name 2</b>
-      </a>
-      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="URL_TO_REPO_3">
-        <img src="IMAGE_URL_3" width="100%" style="border-radius:10px;" alt="Project 3"/>
-        <br /><b>Project Name 3</b>
-      </a>
-      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <a href="URL_TO_REPO_4">
-        <img src="IMAGE_URL_4" width="100%" style="border-radius:10px;" alt="Project 4"/>
-        <br /><b>Project Name 4</b>
-      </a>
-      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="URL_TO_REPO_5">
-        <img src="IMAGE_URL_5" width="100%" style="border-radius:10px;" alt="Project 5"/>
-        <br /><b>Project Name 5</b>
-      </a>
-      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="URL_TO_REPO_6">
-        <img src="IMAGE_URL_6" width="100%" style="border-radius:10px;" alt="Project 6"/>
-        <br /><b>Project Name 6</b>
-      </a>
-      <p align="left">A brief 1-2 line description of what this project does and the tech used.</p>
-    </td>
-  </tr>
-</table>
+<p>With a strong foundation in <b>Business Analysis within banking</b>, I've spearheaded enterprise <b>API and Host-to-Host integration initiatives</b>. I regularly collaborate with business stakeholders, enterprise architects, developers, and QA teams to deliver technology solutions that solve real business problems.</p>
 
+<p>I am now combining that deep domain knowledge with <b>Data Science and Artificial Intelligence</b> to build intelligent systems that don't just stop at model training but are engineered, deployed, monitored, and designed to create <b>measurable business value</b>.</p>
 
-<h5 align="left"> Tech Stack: </h5>
+<blockquote>
+  <b>My Mission:</b> To become a world-class <b>Data Scientist</b> capable of designing and delivering enterprise <b>AI platforms for financial services</b>.
+</blockquote>
+
+</br>
+
+<h5 align="left"> Tech Stack & Toolbox: </h5>
 Tableau, 
 Power BI, 
 Docker, 
